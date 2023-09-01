@@ -21,8 +21,9 @@
   width: 100%;
   height: 100%;
 }
+
 .row div {
-  width: 500px;
+  flex: 1;
 }
 .vertical-img-column img {
   height: calc((100% - 5px) / 2);
